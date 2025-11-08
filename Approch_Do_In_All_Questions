@@ -1,0 +1,16 @@
+// LeetCode Question: <Problem Name>
+// Problem Link: <URL>
+// Approach: <2-5 lines explaining logic>
+// Time Complexity: O(...)
+// Space Complexity: O(...)
+
+git add .
+git commit -m "Solved: LC 121 Best Time to Buy and Sell Stock | Topic: Array | Greedy"
+git push
+
+// class Solution {
+//     public <return-type> <functionName>(<params>) {
+//         // your code
+//     }
+// }
+
