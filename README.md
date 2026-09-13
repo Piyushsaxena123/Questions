@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Piyushsaxena123/Questions/tree/master/0075-sort-colors) |
 | [0835-image-overlap](https://github.com/Piyushsaxena123/Questions/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Piyushsaxena123/Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
@@ -36,9 +37,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Piyushsaxena123/Questions/tree/master/0075-sort-colors) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Piyushsaxena123/Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Piyushsaxena123/Questions/tree/master/0835-image-overlap) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Piyushsaxena123/Questions/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Piyushsaxena123/Questions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Piyushsaxena123/Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
