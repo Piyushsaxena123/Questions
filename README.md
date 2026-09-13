@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Piyushsaxena123/Questions/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Piyushsaxena123/Questions/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Piyushsaxena123/Questions/tree/master/0443-string-compression) |
 | [0940-distinct-subsequences-ii](https://github.com/Piyushsaxena123/Questions/tree/master/0940-distinct-subsequences-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Piyushsaxena123/Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Piyushsaxena123/Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Piyushsaxena123/Questions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Piyushsaxena123/Questions/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Piyushsaxena123/Questions/tree/master/0443-string-compression) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Piyushsaxena123/Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Quicksort
