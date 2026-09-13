@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Piyushsaxena123/Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Piyushsaxena123/Questions/tree/master/0075-sort-colors) |
+| [0238-product-of-array-except-self](https://github.com/Piyushsaxena123/Questions/tree/master/0238-product-of-array-except-self) |
 | [0835-image-overlap](https://github.com/Piyushsaxena123/Questions/tree/master/0835-image-overlap) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Piyushsaxena123/Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Piyushsaxena123/Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Piyushsaxena123/Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Piyushsaxena123/Questions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
