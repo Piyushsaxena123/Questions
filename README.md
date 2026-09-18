@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Piyushsaxena123/Questions/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Piyushsaxena123/Questions/tree/master/0443-string-compression) |
 | [0940-distinct-subsequences-ii](https://github.com/Piyushsaxena123/Questions/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Piyushsaxena123/Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Piyushsaxena123/Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Piyushsaxena123/Questions/tree/master/0075-sort-colors) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Piyushsaxena123/Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Piyushsaxena123/Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Piyushsaxena123/Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Piyushsaxena123/Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Piyushsaxena123/Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Piyushsaxena123/Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Greedy
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Piyushsaxena123/Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
