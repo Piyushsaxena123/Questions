@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Piyushsaxena123/Questions/tree/master/0443-string-compression) |
 | [0940-distinct-subsequences-ii](https://github.com/Piyushsaxena123/Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Piyushsaxena123/Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyushsaxena123/Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Piyushsaxena123/Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Piyushsaxena123/Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -126,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Piyushsaxena123/Questions/tree/master/3525-find-x-value-of-array-ii) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyushsaxena123/Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Piyushsaxena123/Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
