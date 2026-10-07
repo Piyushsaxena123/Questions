@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Piyushsaxena123/Questions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Piyushsaxena123/Questions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Piyushsaxena123/Questions/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/Piyushsaxena123/Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0443-string-compression](https://github.com/Piyushsaxena123/Questions/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/Piyushsaxena123/Questions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Piyushsaxena123/Questions/tree/master/0856-score-of-parentheses) |
@@ -181,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Piyushsaxena123/Questions/tree/master/2029-stone-game-ix) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Piyushsaxena123/Questions/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Piyushsaxena123/Questions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
