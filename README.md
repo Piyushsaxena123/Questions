@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/Piyushsaxena123/Questions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Piyushsaxena123/Questions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Piyushsaxena123/Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Piyushsaxena123/Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Combinatorics
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Piyushsaxena123/Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Piyushsaxena123/Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2029-stone-game-ix](https://github.com/Piyushsaxena123/Questions/tree/master/2029-stone-game-ix) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Piyushsaxena123/Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Piyushsaxena123/Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Geometry
 |  |
