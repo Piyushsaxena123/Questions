@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Piyushsaxena123/Questions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Piyushsaxena123/Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Piyushsaxena123/Questions/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/Piyushsaxena123/Questions/tree/master/0238-product-of-array-except-self) |
 | [0835-image-overlap](https://github.com/Piyushsaxena123/Questions/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Piyushsaxena123/Questions/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Piyushsaxena123/Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Piyushsaxena123/Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2029-stone-game-ix](https://github.com/Piyushsaxena123/Questions/tree/master/2029-stone-game-ix) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Piyushsaxena123/Questions/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Piyushsaxena123/Questions/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Piyushsaxena123/Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Two Pointers
 |  |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Piyushsaxena123/Questions/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/Piyushsaxena123/Questions/tree/master/1254-number-of-closed-islands) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -227,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Piyushsaxena123/Questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Piyushsaxena123/Questions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
